@@ -1,4 +1,4 @@
-<map version="docear 1.1" dcr_id="1463682540237_6hw5wu7hqedy6xbjiwv58lihv" project="154CA3DE0AA89XBMKBLWQNJV4NE8WRQCX2F4" project_last_home="file:/C:/Users/Kaustubh/Dropbox/research_new/projects/teaching/chemical_process_calc/">
+<map version="docear 1.1" project="154CA3DE0AA89XBMKBLWQNJV4NE8WRQCX2F4" project_last_home="file:/C:/Users/Kaustubh/Dropbox/research_new/projects/teaching/chemical_process_calc/" dcr_id="1463682540237_6hw5wu7hqedy6xbjiwv58lihv">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <node TEXT="Chemical process calculations" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1463682557857" NUMBERED="true"><hook NAME="MapStyle" layout="OUTLINE">
     <properties show_note_icons="true"/>
@@ -180,7 +180,7 @@
 </node>
 <node TEXT="Introduction to energy balance" ID="ID_909253388" CREATED="1464279577365" MODIFIED="1464280205377" NUMBERED="true">
 <node TEXT="Forms of energy" ID="ID_684107809" CREATED="1464280261551" MODIFIED="1464281107369" NUMBERED="true">
-<node TEXT="Kinetic energy" ID="ID_1765689219" CREATED="1474021607706" MODIFIED="1474021620413"/>
+<node TEXT="Kinetic energy is due to motion" ID="ID_1765689219" CREATED="1474021607706" MODIFIED="1474032043342"/>
 <node TEXT="Potential energy" ID="ID_25580509" CREATED="1474021621054" MODIFIED="1474021634449"/>
 <node TEXT="Internal energy" ID="ID_1659918451" CREATED="1474021634746" MODIFIED="1474021733276"/>
 </node>
